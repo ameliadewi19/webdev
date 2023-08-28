@@ -8,10 +8,6 @@ body {
     font-family: Helvetica Neue, Helvetica, sans-serif, monospace;
 }
 
-nav {
-    /* padding-left: 50px; */
-}
-
 .text-gray {
     color: gray; 
 }
@@ -190,13 +186,6 @@ nav {
     text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-weight: 700;
-    line-height: 1.25;
-    margin-top: 1em;
-    margin-bottom: 0px;
-}
-
 .px2 {
     padding-left: 2rem;
     padding-right: 2rem;
@@ -213,7 +202,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .flex-md-row {
-    flex-direction: row; /* Teks di samping foto pada layar besar */
+    flex-direction: row; 
 }
 
 @media (max-width: 768px) {
@@ -236,7 +225,7 @@ h1, h2, h3, h4, h5, h6 {
     }
 
     .flex-md-row {
-        flex-direction: column; /* Teks di atas foto pada layar kecil */
+        flex-direction: column; 
     }
 
     .container {
