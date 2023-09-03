@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "Powerful laptop for all your needs.",
+    "price": 5999990,
+    "image": "image/laptop.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Vase",
+    "description": "Beautiful vase for your favorite plant.",
+    "price": 100000,
+    "image": "image/vase.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "description": "High-quality headphones for immersive sound.",
+    "price": 1499990,
+    "image": "image/headphone.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Camera",
+    "description": "Capture your moments with this professional camera.",
+    "price": 1899990,
+    "image": "image/pollaroid.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Coffee",
+    "description": "A delightful morning begins with a cup of coffee.",
+    "price": 34999,
+    "image": "image/coffee.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Bag",
+    "description": "A bag, versatile in its capacity and good quality",
+    "price": 499990,
+    "image": "image/bag.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Watch",
+    "description": "Embracing an analog style and timeless appeal.",
+    "price": 599990,
+    "image": "image/watch.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Mouse",
+    "description": "Enjoy controlling your computer.",
+    "price": 299990,
+    "image": "image/mouse.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Shoes",
+    "description": "Expand your journey with comfortable shoes.",
+    "price": 629990,
+    "image": "image/shoes.jpg"
+  }
+]
