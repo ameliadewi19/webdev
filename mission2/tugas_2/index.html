@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.cdnfonts.com/css/gameplay" rel="stylesheet">
+    <title>Dinosaur Game</title>
+</head>
+<body onkeydown="jump(event)">
+    <div class="box" id="box">
+        <div id="startMessage" class="start-message">Tekan space untuk lompat</div>
+        <div class="score" id="score">Score: 0</div>
+        <img src="image/dino.png" alt="" id="dino"/>
+        <img src="image/cactus.png" alt="" id="cactus"/>
+        <div class="roadContainer" id="roadContainer">
+            <img src="image/road.png" alt=""/>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
