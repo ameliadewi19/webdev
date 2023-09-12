@@ -13,6 +13,7 @@ body {
     height: 550px;
     font-family: 'Gameplay', sans-serif;
     font-size: 12pt;
+    background-color: bisque;
 }
 
 #box {
